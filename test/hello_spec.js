@@ -1,3 +1,6 @@
+/* global sayHello:false */
+'use strict';
+
 describe('Hello', function () {
 
   it('says hello to receiver', function () {

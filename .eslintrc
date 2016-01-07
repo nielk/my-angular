@@ -17,8 +17,10 @@
       "always"
     ],
     "no-use-before-define": [2, "nofunc"],
-    "no-var": 1,
-    "no-undef": 0,
+    "no-unused-vars": 0,
+    "no-var": 0,
+    "global-strict": [2, "always"],
+    "strict": 2,
     "prefer-const": 1,
     "max-statements":[2, 15],
     "max-depth":[1, 2],
